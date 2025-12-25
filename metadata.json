@@ -1,0 +1,8 @@
+{
+  "name": "Prompt2Film",
+  "description": "Professional AI Film Studio powered by Gemini Veo 3.1. Transform your ideas into cinematic masterpieces.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
